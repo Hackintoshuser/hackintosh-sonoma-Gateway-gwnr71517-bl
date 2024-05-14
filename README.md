@@ -1,2 +1,2 @@
 # hackintosh-sonoma-Gateway-gwnr71517-bl
-Efi folder for gateway gwnr71517-bl
+Efi folder for gateway gwnr71517-bl (dont use this for a main boot use it as a stepping stone to your own efi) it has most of the kexts needed might have some mistakes so please if there is please tell me i wont be updating this mainly. if you use this as your main efi dont go complianing to me when it doesnt work (wifi and bluetooth dont due to the realtek card)
